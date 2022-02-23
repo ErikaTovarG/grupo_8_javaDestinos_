@@ -10,7 +10,6 @@ Quienes somos :
 
 -->erika  
 -->nicolas
--->
--->paula
+-->paula   
 -->gonzalo
 
