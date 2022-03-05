@@ -1,8 +1,8 @@
-# grupo_8_nombre
+# grupo_8_javaDestinos_
 
-javaDestinos
+javaDestinos_
 
-javaDestinos es una plataforma digital dedicada a ofrecer servicios tours. Ofrecemos variedades en tours donde usted puede encontrar la mejor opcion para sus vacaciones. 
+javaDestinos_ es una plataforma digital dedicada a ofrecer servicios tours. Ofrecemos variedades en tours donde usted puede encontrar la mejor opcion para sus vacaciones. 
 
 Dentro de las diferentes opciones encontrará distintos visitas a playa, bosques, aventuras, naturaleza y fauna, arte y cultura, actividades al aire libre, cruceros y veleros, tours culturales y muchas opciones más.  
 Los tours pueden variar depediendo los gusto, prepuesto y cantidad de viajantes, acomodandose a todo tipo de presupuesto. Ademas, tenemos la opcion de guias turisticas los acompañarán durante su viaje.
