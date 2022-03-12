@@ -22,4 +22,9 @@ Sitios de referencias:
 -->https://cdn.dribbble.com/users/4109473/screenshots/8083563/media/185f7473826d2373bd3748d522693c62.png Este lo elegimos por su simpleza en el diseño. Nos parecio que el mismo el limpio, intuitivo y facil de usar.
 -->https://www.despegar.com.ar/actividades/ Nos gustó porque implementa la opcion de carrito de compras, los filtros y la descripción de cada uno de sus productos. 
 
+Link a la plataforma que utiliza para organizar el trabajo:
+
+-->https://trello.com/grupo8284
+
+
 
